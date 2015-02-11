@@ -1,0 +1,75 @@
+body {
+	width: 100%;
+	margin: auto;
+	background-image: url("happy-family.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	float: left;
+	position: relative;
+	left: 20px;
+	font-family: "Arial";
+	font-size: 40px;
+}
+h1.post_left {
+	font-size: 15px;
+	color: #464646;
+	position: relative;
+	left: 50px;
+	top: 37px;
+}
+h2 {
+	margin: 10%;
+	font-family: "Arial";
+	font-size: 30px;
+}
+h2.breadtext {
+	font-size: 12px;
+}
+.container {
+	width: 100%;
+	margin: auto;
+	opacity: 0.6;
+}
+#container2 {
+	width: 45%;
+	color: black;
+	position: relative;
+	float: left;
+	overflow: hidden;
+}
+#container2 .transparacy {
+	opacity: 0.7;
+	margin: auto;
+	background-color: white;
+	width: 800px;
+	height: 450px;
+	position: fixed;
+	top: 300px;
+}
+
+.header {
+	background: #FFFFCC;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	border: 5px solid black;
+
+}
+.logo {
+	float: left;
+	font-family: "Helvetica":;
+	font-size: 10px;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+.content {
+	margin-left: 20px;
+	width: 750px;
+	height: 450px;
+	position: fixed;
+	top: 300px;
+}
